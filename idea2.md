@@ -1,1 +1,1 @@
-
+For my second idea, I will base it off my first idea, but instead replace the dog with a monkey instead. The sound effects will also emit something more unexpected. I might make the sounds slightly more humourous unlike the dog. I am thinking of adding background music to provide more context.
