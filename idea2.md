@@ -1,1 +1,2 @@
 For my second idea, I will base it off my first idea, but instead replace the dog with a monkey instead. The sound effects will also emit something more unexpected. I might make the sounds slightly more humourous unlike the dog. I am thinking of adding background music to provide more context.
+Similar to my first idea, I am thinking of making the only activity revolved around feeding a monkey. I will add a few different food options around the monkey's head and ask the user to select either one. The monkey will then respond to this process and express a certain emotion. 
